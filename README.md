@@ -27,4 +27,4 @@ $ python main.py
 ## Output
 After run, output should be like this:
 
-![image](/home/hoptical/Documents/Exa_Blog/Part2/ui/screen.png  "screen")
+![image](./screen.png  "screen")
